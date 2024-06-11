@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**eldhosempeter07/eldhosempeter07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eldhose M Peter, a passionate Full-Stack Developer with expertise in building dynamic and responsive web applications. I specialize in using modern web technologies including React, Redux, Node.js, JavaScript, Next.js, CSS, and HTML.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+
+Frontend:
+React
+Redux
+Next.js
+JavaScript
+HTML
+CSS3 (Sass, Bootstrap, Tailwind)
+
+Backend:
+Node.js
+Express.js
+
+Database:
+MongoDB
+MySql
+
+Version Control:
+Git
+GitHub
+Bitbucket
+
+Other Tools:
+Webpack
+Babel
+Jest
+
+🛠️ Projects
+Here are some of my notable projects:
+
+Project 1: [Blogging Website](https://github.com/eldhosempeter07/expense-tracker)
+
+Fin Track is a sleek and intuitive personal expense tracker designed to simplify your financial management. With Fin Track, you can easily record daily expenses, categorize spending, and analyze financial habits. 
+Frontend: React, Redux, CSS
+Backend: Node.js, Express.js, MongoDB
+Features: User authentication, track spending and earning 
+
+Project 2: [Blogging Website](https://github.com/eldhosempeter07/Ecommerce-React)
+A full-featured e-commerce platform built with React, Redux, and Node.js.
+
+Frontend: React, Redux, CSS
+Backend: Node.js, Express.js, MongoDB
+Features: User authentication, product search and filter, shopping cart, order management, payment integration
+
+🌐 Connect with Me
+LinkedIn: https://www.linkedin.com/in/eldhose-m-peter-48867411a/
+Email: eldhosepeterm@gmail.com
+
+💬 Get in Touch
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
