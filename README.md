@@ -34,14 +34,14 @@ Jest
 🛠️ Projects
 Here are some of my notable projects:
 
-Project 1: [Blogging Website](https://github.com/eldhosempeter07/expense-tracker)
+Project 1: [Fin Track](https://github.com/eldhosempeter07/expense-tracker)
 
 Fin Track is a sleek and intuitive personal expense tracker designed to simplify your financial management. With Fin Track, you can easily record daily expenses, categorize spending, and analyze financial habits. 
 Frontend: React, Redux, CSS
 Backend: Node.js, Express.js, MongoDB
 Features: User authentication, track spending and earning 
 
-Project 2: [Blogging Website](https://github.com/eldhosempeter07/Ecommerce-React)
+Project 2: [Ecommerce WebApp](https://github.com/eldhosempeter07/Ecommerce-React)
 A full-featured e-commerce platform built with React, Redux, and Node.js.
 
 Frontend: React, Redux, CSS
