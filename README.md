@@ -20,6 +20,7 @@ Express.js
 Database:
 MongoDB
 MySql
+Postgres
 
 Version Control:
 Git
