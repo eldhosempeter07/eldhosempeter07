@@ -35,22 +35,21 @@ Jest
 🛠️ Projects
 Here are some of my notable projects:
 
-Project 1: [Fin Track](https://github.com/eldhosempeter07/expense-tracker)
+Project 1: [Cognipod](https://cognipod.vercel.app/)-(https://github.com/eldhosempeter07/cognipod)
 
-Fin Track is a sleek and intuitive personal expense tracker designed to simplify your financial management. With Fin Track, you can easily record daily expenses, categorize spending, and analyze financial habits. 
+Cognipod is a collaborative study platform using React, TypeScript, GraphQL and Firebase.
+Frontend: React, Redux, CSS
+Features: User authentication, Groups, Sessions, Connect with friends
+
+Project 2: [Flavour Fleet](https://flavourzfleet.vercel.app) -(https://github.com/eldhosempeter07/flavour-fleet)
+A full-featured restaurant management platform built with React, Redux, and Node.js.
+
 Frontend: React, Redux, CSS
 Backend: Node.js, Express.js, MongoDB
-Features: User authentication, track spending and earning 
-
-Project 2: [Ecommerce WebApp](https://github.com/eldhosempeter07/Ecommerce-React)
-A full-featured e-commerce platform built with React, Redux, and Node.js.
-
-Frontend: React, Redux, CSS
-Backend: Node.js, Express.js, MongoDB
-Features: User authentication, product search and filter, shopping cart, order management, payment integration
+Features: User authentication, product search and filter, cart, order management, payment integration
 
 🌐 Connect with Me
-LinkedIn: https://www.linkedin.com/in/eldhose-m-peter-48867411a/
+LinkedIn: https://www.linkedin.com/in/eldhose-m-peter/
 Email: eldhosepeterm@gmail.com
 
 💬 Get in Touch
